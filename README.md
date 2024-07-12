@@ -7,9 +7,8 @@ This project aims to analyze the correlation between daily returns of various st
 - [🔧 Installation](#installation)
 - [💻 Usage](#usage)
 - [📊 Results](#results)
-- [🤝 Contributing](#contributing)
-- [📜 License](#license)
 
+  
 ## 📜 Introduction
 In this project, we analyze the relationships between the daily returns of stocks listed in the provided dataset. The main objectives are:
 
