@@ -1,4 +1,5 @@
- # 📈 Stock Returns Correlation Analysis
+# Assignment : SmartHire by YASH SEJWAL
+ ## 📈 Stock Returns Correlation Analysis
 
 This project aims to analyze the correlation between daily returns of various stocks. The analysis includes data preprocessing, calculation of the correlation matrix, and visualization of the results through heatmaps.
 
